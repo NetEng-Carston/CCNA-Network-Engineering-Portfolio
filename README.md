@@ -12,17 +12,18 @@ Through detailed configurations, network diagrams, and step-by-step explanations
 03. 802.1Q Trunking
 04. Inter-VLAN Routing
 05. CDP and LLDP Neighbor Discovery
-06. Single Area OSPF
-07. Etherchannels
-08. PortFast, BPDU Guard, Root Guard, & Loop Guard
-09. DHCP, DNS, and NAT
-10. Standard & Extended ACLs
-11. Layer 2 Network Security
-12. Network Management & Monitoring
-13. Wireless Architecture and Deployment
-14. First-Hop Redundancy (HSRP/VRRP)
-15. Voice VLANs & Quality of Service
-16. Two Tier & Three Tier Network Architecture
-17. REST APIs & JSON
+06. IPv4 and IPv6 Routing and Path Selection
+07. Single Area OSPF
+08. Etherchannels
+09. PortFast, BPDU Guard, Root Guard, & Loop Guard
+10. DHCP, DNS, and NAT
+11. Standard & Extended ACLs
+12. Layer 2 Network Security
+13. Network Management & Monitoring
+14. Wireless Architecture and Deployment
+15. First-Hop Redundancy (HSRP/VRRP)
+16. Voice VLANs & Quality of Service
+17. Two Tier & Three Tier Network Architecture
+18. REST APIs & JSON
 
 
